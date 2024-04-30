@@ -1,1 +1,1 @@
-## Autoencoder Attention-base Global Forecasting Model
+## Autoencoder Attention-based Global Forecasting Model
