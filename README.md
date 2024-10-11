@@ -6,3 +6,9 @@ In several industries, such as retail, tourism, and energy, vast amounts of time
 The figure outlines the overall method for performing global forecasting, which involves six key steps, as shown in the graphic: 1) using time series datasets to train the designed autoencoders, 2) leveraging the autoencoders to extract features from the time series, 3) clustering the time series based on the extracted feature vectors, 4) preprocessing the time series to build forecasting models, 5) applying the created models to fit the global forecasting models and generate predictions for each time series, and 6) post-processing the forecasts. A detailed explanation of each step follows below.
 ![Framework](https://github.com/user-attachments/assets/2428dcf4-1919-4091-8884-741df92c6518)
 
+### Installing Dependencies
+
+To install all the dependencies required for this project, ensure you have `pip` installed. Then, run the following command to install the packages listed in `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
